@@ -1,7 +1,6 @@
-# API Produtos - VR Software
+# Sistema de Vendas
 
-Este projeto é um sistema de vendas feito para o processo seletivo da empresa VR Software
-
+Este projeto é um sistema de vendas feito para o processo seletivo.
 A aplicação consiste em gerenciar produtos e cadastro de produtos em lojas.
 
 ## 🛠️ Tecnologias Utilizadas
